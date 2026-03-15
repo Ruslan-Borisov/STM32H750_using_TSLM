@@ -1,0 +1,34 @@
+./tflite_micro_stm32h750/fastmathfunctionsf16.o: \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\FastMathFunctions\FastMathFunctionsF16.c \
+  RTE\_TFLite_Micro_stm32h750_use\Pre_Include_Global.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\FastMathFunctions\arm_vexp_f16.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\PrivateInclude\arm_compiler_specific.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\fast_math_functions_f16.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\arm_math_types_f16.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\arm_math_types.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\stdint.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\__config \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\string.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\string.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\math.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\math.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\float.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\float.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\limits.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\limits.h \
+  ..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  ..\Drivers\CMSIS\Include\cmsis_armclang.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\arm_math_memory.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\none.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\utils.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\fast_math_functions.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\basic_math_functions.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\arm_common_tables.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\arm_vec_math_f16.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\arm_common_tables_f16.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\arm_helium_utils.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\FastMathFunctions\arm_vlog_f16.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\support_functions_f16.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\FastMathFunctions\arm_vinverse_f16.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\FastMathFunctions\arm_atan2_f16.c

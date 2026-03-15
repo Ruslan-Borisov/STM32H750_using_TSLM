@@ -1,0 +1,16 @@
+LR_IROM1 0x90000000 0x00800000  {    ; QSPI начало, 8MB размер
+  ER_IROM1 0x90000000 0x00800000  {
+    *.o (RESET, +First)
+    *(InRoot$$Sections)
+    .ANY (+RO)
+    .ANY (+XO)
+  }
+  
+  RW_IRAM1 0x24000000 0x00080000  {  ; AXI SRAM
+    .ANY (+RW +ZI)
+  }
+  
+  RW_IRAM2 0x20000000 0x00020000  {  ; DTCM
+    *.o (.dtcm)
+  }
+}

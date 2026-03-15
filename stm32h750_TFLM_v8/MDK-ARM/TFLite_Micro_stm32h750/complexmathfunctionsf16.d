@@ -1,0 +1,32 @@
+./tflite_micro_stm32h750/complexmathfunctionsf16.o: \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\ComplexMathFunctions\ComplexMathFunctionsF16.c \
+  RTE\_TFLite_Micro_stm32h750_use\Pre_Include_Global.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\ComplexMathFunctions\arm_cmplx_conj_f16.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\PrivateInclude\arm_compiler_specific.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\complex_math_functions_f16.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\arm_math_types_f16.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\arm_math_types.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\stdint.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\__config \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\string.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\string.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\math.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\math.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\float.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\float.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\limits.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\limits.h \
+  ..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  ..\Drivers\CMSIS\Include\cmsis_armclang.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\arm_math_memory.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\none.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\utils.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\fast_math_functions_f16.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\fast_math_functions.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\basic_math_functions.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\ComplexMathFunctions\arm_cmplx_dot_prod_f16.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\ComplexMathFunctions\arm_cmplx_mag_f16.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\ComplexMathFunctions\arm_cmplx_mag_squared_f16.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\ComplexMathFunctions\arm_cmplx_mult_cmplx_f16.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\ComplexMathFunctions\arm_cmplx_mult_real_f16.c

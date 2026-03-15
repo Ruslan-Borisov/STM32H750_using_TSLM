@@ -1,0 +1,31 @@
+./tflite_micro_stm32h750/svmfunctions.o: \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\SVMFunctions.c \
+  RTE\_TFLite_Micro_stm32h750_use\Pre_Include_Global.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_linear_init_f32.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\PrivateInclude\arm_compiler_specific.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\svm_functions.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\arm_math_types.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\stdint.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\__config \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\string.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\string.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\math.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\math.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\float.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\float.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\libcxx\limits.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\limits.h \
+  ..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  ..\Drivers\CMSIS\Include\cmsis_armclang.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\arm_math_memory.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\none.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\utils.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Include\dsp\svm_defines.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_linear_predict_f32.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_polynomial_init_f32.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_polynomial_predict_f32.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_rbf_init_f32.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_rbf_predict_f32.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_sigmoid_init_f32.c \
+  C:\Users\rus\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_sigmoid_predict_f32.c

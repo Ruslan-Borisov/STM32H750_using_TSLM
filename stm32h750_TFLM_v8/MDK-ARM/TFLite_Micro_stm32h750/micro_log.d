@@ -1,0 +1,24 @@
+./tflite_micro_stm32h750/micro_log.o: \
+  C:\Users\rus\AppData\Local\Arm\Packs\tensorflow\tensorflow-lite-micro\1.25.2\tensorflow\lite\micro\micro_log.cpp \
+  RTE\_TFLite_Micro_stm32h750_use\Pre_Include_Global.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\tensorflow\tensorflow-lite-micro\1.25.2\tensorflow\lite\micro\micro_log.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\cstdarg \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\__assert \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\__config \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\__verbose_abort \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\__availability \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdarg.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\cstddef \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\__type_traits\enable_if.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\__type_traits\integral_constant.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\__type_traits\is_integral.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\__type_traits\remove_cv.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\__type_traits\remove_const.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\__type_traits\remove_volatile.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\version \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\stddef.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stddef.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\cstdint \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\libcxx\stdint.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  C:\Users\rus\AppData\Local\Arm\Packs\tensorflow\tensorflow-lite-micro\1.25.2\tensorflow\lite\micro\debug_log.h
