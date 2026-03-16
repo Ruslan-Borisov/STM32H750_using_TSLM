@@ -1,4 +1,4 @@
-/* Copyright 2023 The TensorFlow Authors. All Rights Reserved. */
+﻿/* Copyright 2023 The TensorFlow Authors. All Rights Reserved. */
 #include "tensorflow/lite/micro/debug_log.h"
 
 #ifdef __cplusplus

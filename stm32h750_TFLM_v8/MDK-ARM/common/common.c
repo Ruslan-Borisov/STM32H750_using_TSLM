@@ -15,7 +15,7 @@ void QSPI_Init_Early(void)
     QSPI_ResetDevice(&hqspi);
     HAL_Delay(1);
 
-    // 2. Âêëþ÷èòü Quad mode (áèò QE!)
+    // 2. Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Quad mode (Ð±Ð¸Ñ‚ QE!)
     uint8_t sr2 = w25qxx_ReadSR(W25X_ReadStatusReg2);
     if(!(sr2 & 0x02))
     {
@@ -24,7 +24,7 @@ void QSPI_Init_Early(void)
         W25QXX_Wait_Busy();
     }
 
-    // 3. Âêëþ÷àåì memory mapped mode
+    // 3. Ð’ÐºÐ»ÑŽÑ‡Ð°ÐµÐ¼ memory mapped mode
     w25qxx_Startup(0);
 }
 
@@ -41,7 +41,7 @@ void JumpToQSPI(void)
 
     __disable_irq();
 
-    SCB->VTOR = 0x90000000;   // < ÒÎËÜÊÎ ÇÄÅÑÜ
+    SCB->VTOR = 0x90000000;   // < Ð¢ÐžÐ›Ð¬ÐšÐž Ð—Ð”Ð•Ð¡Ð¬
 
     __set_MSP(sp);
 
